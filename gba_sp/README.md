@@ -7,7 +7,7 @@ Below are two examples of how the gamepad overlay will look.
 
 |Metalic Blue Plain|Orange Regular|
 |:---:|:---:|
-| ![](./example_images/gba_sp_ex1.png) | ![](./example_images/gba_sp_ex2.png) |
+| ![](../example_images/gba_sp_ex1.png) | ![](../example_images/gba_sp_ex2.png) |
 
 ## Download
 Click the button below to download this overlay.
