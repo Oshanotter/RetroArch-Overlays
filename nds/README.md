@@ -7,7 +7,7 @@ Below are two examples of how the gamepad overlay will look.
 
 |Gray|Pink|
 |:---:|:---:|
-| ![](./example_images/nds_ex1.png) | ![](./example_images/nds_ex2.png) |
+| ![](../example_images/nds_ex1.png) | ![](../example_images/nds_ex2.png) |
 
 ## Download
 Click the button below to download this overlay.
