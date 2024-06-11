@@ -12,7 +12,7 @@ Below are two examples of how the gamepad overlay will look.
 ## Download
 Click the button below to download this overlay.
 
-<kbd> <br> [Download](https://github.com/Oshanotter/retroarch-overlays/releases/download/nds/nds.zip) <br> </kbd>
+<kbd> <br> [Download](https://github.com/Oshanotter/RetroArch-Overlays/releases/download/nds/nds.zip) <br> </kbd>
 
 ## How To Install
 > [!NOTE]  
